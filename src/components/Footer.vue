@@ -4,7 +4,7 @@
       <a href="https://thronesapi.com/api/v2/Characters" target="_blank">API</a>
     </div>
     <div>
-      <a href="#" target="_blank">GitHub project</a>
+      <a href="https://github.com/ZPainHarden/DevWeb_ProjetVue" target="_blank">GitHub project</a>
     </div>
     <div class="imac">
       <a href="https://www.ingenieur-imac.fr/" target="_blank">IMAC</a>
